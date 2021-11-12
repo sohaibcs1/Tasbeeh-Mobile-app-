@@ -9,13 +9,8 @@ It’s a tasbeeh counter application. We can use this mobile application for the
 # Compass Instructions
 I have designed the compass that guides us about the direction we want to proceed. This compass accuracy depends entirely on the sensors in your device. Keep your device away from magnetic fields because such fields interfere with the compass sensor.
 
+<img src="/screenshot/e.PNG" width="225"/> <img src="/screenshot/d.PNG" width="225"/> <img src="/screenshot/f.PNG" width="225"/>
 
-<img src="/screenshot/d.PNG" width="225"/>
-
-# How to build?
-1. Open Android Studio
-2. Select `Check out project from Version Control` -> `Git`
-3. Put this repository url into `URL` section and click `Clone`
 
 # License
 See LICENSE.md
